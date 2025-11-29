@@ -60,17 +60,18 @@ I explore AI/ML, Cybersecurity, and deep system-level logic, while building proj
 
 ### 🚧 Current & Future Projects
 
-🧠 **Fake News Detection using ML** (current university project)  
-🔐 **Password-strength analyzer & hashing visualizer**  
-📡 **Network security & packet inspection tools**  
-🧮 **Data structure visual playground** (for students)  
-
+🧪 Salinity-Sentinel — A Smart Soil Monitoring System for Coastal Bangladesh (current university project)
+🎮 Offline game development — local-device optimized games
+🔐 Advanced network vulnerability scanner & threat analyzer (future project)
+🧠 AI-based cyber-attack prediction model (future project)
+📊 Smart student performance analytics using ML (future project)
+🌐 Privacy-focused peer-to-peer communication tool (future project)
 ---
 
 ### 🌐 Connect With Me
 
-- 📩 Email: `dipta.dey@example.com` *(replace with real one if you want)*  
-- 🧠 GitHub: [@DiptaDey](https://github.com/DiptaDey)  
+- 📩 Email: `diptadey768@gmail.com`  
+- 🧠 GitHub: [@DiptaDey]([https://github.com/DiptaDey](https://github.com/Dipto-04))  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiptaDey&label=Profile+Views&color=blue&style=flat" />
