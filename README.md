@@ -60,12 +60,19 @@ I explore AI/ML, Cybersecurity, and deep system-level logic, while building proj
 
 ### 🚧 Current & Future Projects
 
+🚀 Projects & Interests
+
 🧪 Salinity-Sentinel — A Smart Soil Monitoring System for Coastal Bangladesh (current university project)
-🎮 Offline game development — local-device optimized games
-🔐 Advanced network vulnerability scanner & threat analyzer (future project)
-🧠 AI-based cyber-attack prediction model (future project)
-📊 Smart student performance analytics using ML (future project)
-🌐 Privacy-focused peer-to-peer communication tool (future project)
+
+🎮 *Offline Game Development — Local-device optimized casual & competitive games
+
+🔐 Advanced Network Vulnerability Scanner & Threat Analyzer (future project)
+
+🧠 AI-Based Cyber-Attack Prediction Model (future project)
+
+📊 Smart Student Performance Analytics using ML (future project)
+
+🌐 Privacy-Focused Peer-to-Peer Communication Tool (future project)
 ---
 
 ### 🌐 Connect With Me
