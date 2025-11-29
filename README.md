@@ -1,24 +1,41 @@
-<h1 align="center">Hi, I'm Dipta 👾</h1>
+<!-- ---------------------------------------------------------------------- -->
+<!-- 🎨 Animated Header -->
+<!-- ---------------------------------------------------------------------- -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=500&color=00E8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dipta+Dey+👾;CS+%26+EE+Student;AI%2FML+%26+Cybersecurity+Enthusiast;Future+Cybersecurity+Engineer" />
+</h1>
+
 <p align="center">
-  🌐 CS & EE Student | AI/ML & Cybersecurity Enthusiast  
+  <img src="https://img.shields.io/badge/CS%20Student-blue?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=yellow"/>
 </p>
 
 ---
 
-### 🔍 About Me
+## 🔥 My Coding Activity (Animated)
 
-I’m Dipta — a curious learner who loves understanding how systems work, break, and can be rebuilt smarter.  
-I explore AI/ML, Cybersecurity, and deep system-level logic, while building projects that sharpen practical skills.
-
-- 🧠 Always learning with real-world curiosity  
-- 🔐 Cybersecurity admirer (since childhood)  
-- 🤖 Interested in machine learning & intelligent systems  
-- 💻 Comfortable with C, C++, and Python  
-- ⚡ Passion-driven, feedback-driven, growth-driven
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,linux,bash,git,github,vscode" />
+</p>
 
 ---
 
-### 🛠️ Tech Interests
+## 🧠 About Me
+
+I’m Dipta — a curious learner fascinated by how systems work, break, and can be rebuilt smarter.
+
+- 🕵️‍♂️ Cybersecurity admirer (since childhood)
+- 🧮 Logic-driven thinker
+- ⚙️ Loves debugging & reverse-thinking problems
+- 🧠 Learning machine intelligence & decision systems
+- 🚀 Growth-driven mindset
+
+---
+
+## 🛠️ Tech Interests
 
 | Core | Applied | Future Path |
 |------|----------|--------------|
@@ -28,70 +45,72 @@ I explore AI/ML, Cybersecurity, and deep system-level logic, while building proj
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiptaDey&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DiptaDey&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DiptaDey&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiptaDey&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptaDey&theme=tokyo-night&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiptaDey&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-### 🧠 Tools & Technologies
+## 🧬 Language Usage Breakdown (Animated)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-2A52BE?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptaDey&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
-### 🚧 Current & Future Projects
+## 🧪 Projects & Interests
 
-🚀 Projects & Interests
+🔬 **Salinity-Sentinel — Smart Soil Monitoring System**  
+🎮 **Offline Game Development — local device optimized games**  
+🔐 **Network Vulnerability Scanner (future)**  
+🧠 **AI-Based Cyber-Attack Prediction Model (future)**  
+📊 **Student Analytics ML System (future)**  
+🌐 **Privacy-Protected P2P Communication Tool (future)**  
 
-🧪 Salinity-Sentinel — A Smart Soil Monitoring System for Coastal Bangladesh (current university project)
-
-🎮 *Offline Game Development — Local-device optimized casual & competitive games
-
-🔐 Advanced Network Vulnerability Scanner & Threat Analyzer (future project)
-
-🧠 AI-Based Cyber-Attack Prediction Model (future project)
-
-📊 Smart Student Performance Analytics using ML (future project)
-
-🌐 Privacy-Focused Peer-to-Peer Communication Tool (future project)
 ---
 
-### 🌐 Connect With Me
-
-- 📩 Email: `diptadey768@gmail.com`  
-- 🧠 GitHub: [@DiptaDey]([https://github.com/DiptaDey](https://github.com/Dipto-04))  
+## 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiptaDey&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/badge/VSCode-1FC0FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-111?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
 </p>
 
 ---
 
-### 💡 Philosophy
+## 🐍 Contribution Graph Snake Animation
 
-> You don’t need to code fast — you just need to code *deep*.
+<p align="center">
+  <img src="https://github.com/DiptaDey/DiptaDey/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Learning+bit+by+bit+every+day.;Engineering+my+future.;Securing+the+systems+of+tomorrow." />
+  <a href="mailto:diptadey768@gmail.com"><img src="https://img.shields.io/badge/Email-D95843?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/DiptaDey"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+<p align="center"><b>
+You don’t need to code fast — you need to code deep.
+</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFEE&center=true&vCenter=true&width=500&lines=Engineering+my+future...;Securing+the+systems+of+tomorrow...;Learning+bit+by+bit+every+day..."/>
 </p>
