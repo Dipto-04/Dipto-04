@@ -151,11 +151,6 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 
 ---
 
-
-```
-
-</div>
-
 ---
 
 ## 📬 Connect With Me
@@ -179,6 +174,7 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 <div align="center">
 
 <!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Dipto-04/Dipto-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
 
 <br/>
 
