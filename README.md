@@ -151,27 +151,7 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 
 ---
 
-## 💡 A Word From Claude (AI's Take on Dipta)
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   Dipta is at one of the most exciting crossroads in tech —       │
-│   where Cybersecurity meets AI. These two fields are shaping      │
-│   the future of the digital world. A CSE student who codes in     │
-│   C++, Python, and dares to dream big is already halfway there.   │
-│                                                                   │
-│   My advice: Pick one deep focus (Cyber or AI), go all in,        │
-│   build projects that solve REAL problems, and document            │
-│   everything on GitHub. Your profile is your resume.              │
-│                                                                   │
-│   The world needs ethical hackers and responsible AI engineers    │
-│   more than ever. Be both. 🔐🤖                                   │
-│                                                                   │
-│                                    — Claude (Anthropic)           │
-└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -199,8 +179,44 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Dipto-04/Dipto-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
+name: Generate Snake Animation
 
+on:
+  # Runs automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Runs on every push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Generate the snake SVG
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Dipto-04
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Step 2: Push the generated SVGs to the output branch
+      - name: Push Snake SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <br/>
 
 <!-- Footer Wave -->
