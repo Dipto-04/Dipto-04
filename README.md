@@ -157,10 +157,18 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 
 <div align="center">
 
-> 🔗 *More links coming soon — LinkedIn, Portfolio & more!*
+> 🔗 *More links coming soon — Portfolio & more!*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dipto--04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipto-04)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipta_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-dey-7ab029309/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-diptadey768%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptadey768@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Dipta_Dey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipta.dey/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-_.yukaze._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yukaze._/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 <br/>
