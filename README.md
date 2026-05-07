@@ -160,7 +160,7 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 > 🔗 *More links coming soon — LinkedIn, Portfolio & more!*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dipto--04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipto-04)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#](https://www.linkedin.com/in/dipta-dey-7ab029309/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipta_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-dey-7ab029309/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 <br/>
