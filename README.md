@@ -169,8 +169,7 @@ When I'm not writing code or exploring cybersecurity concepts, you'll find me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-_.yukaze._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yukaze._/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myyprootfolio.netlify.app/)
 <br/>
 
 📧 **Open to:** Collaborations • Open Source • Learning together • Internships
