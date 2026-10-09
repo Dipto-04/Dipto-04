@@ -1,197 +1,155 @@
+ <div align="center">
+
+# Dipta Dey
+
+### CSE Student | AI/ML Explorer | Cybersecurity Enthusiast
+
+*Building my skills, solving problems, and exploring technology one project at a time.*
+
+<p>
+  <a href="https://github.com/Dipto-04">
+    <img src="https://img.shields.io/badge/GitHub-Dipto--04-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dipto-04&style=flat-square&color=2563eb&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0f766e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+Hi! I'm **Dipta Dey**, a Computer Science and Engineering student at Bangladesh University of Business and Technology (BUBT), Bangladesh.
+
+I'm interested in artificial intelligence, machine learning, cybersecurity, and software development. I enjoy learning new technologies, experimenting with ideas, and turning concepts into practical projects.
+
+* 🎓 Studying B.Sc. in Computer Science & Engineering at BUBT
+* 🤖 Exploring Artificial Intelligence and Machine Learning
+* 🔐 Learning about Cybersecurity and Ethical Hacking
+* 💻 Practicing programming and problem-solving
+* 🎬 Interested in videography, video editing, and creative technology
+* 🌍 Passionate about travelling and exploring new places
+
+**Current focus:** Strengthening my programming fundamentals, improving problem-solving skills, and building practical projects.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F766E?style=flat-square" alt="DSA"/>
+</p>
+
+---
+
+## Featured Projects
+
+I'm working on projects that help me apply what I learn and develop practical engineering skills.
+
+| Project                   | Description                                                                                     | Status           |
+| ------------------------- | ----------------------------------------------------------------------------------------------- | ---------------- |
+| **ScholarshipConnect BD** | A web-based platform for scholarship discovery, student networking, and application management. | In Progress      |
+| **Student Data Analysis** | Exploring data cleaning, preprocessing, and basic statistical analysis using Python.            | Learning Project |
+| **Programming Practice**  | Solving programming problems to strengthen algorithms and problem-solving skills.               | Ongoing          |
+
+Explore my repositories for source code, experiments, and future projects.
+
+<p align="left">
+  <a href="https://github.com/Dipto-04?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dipta%20Dey&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://github.com/Dipto-04">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipto-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+</a>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Dipta+Dey+%F0%9F%91%8B;CSE+Student+%40+BUBT;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%2F+ML+Explorer+%F0%9F%A4%96;Passionate+Problem+Solver+%F0%9F%A7%A9;Future+Cybersecurity+Specialist+%F0%9F'%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<a href="https://github.com/Dipto-04">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Dipto-04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Dipto-04?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Dipto-04)
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipto-04&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🌌 About Me
+## Beyond Coding
 
-```python
-class DiptaDey:
-    def __init__(self):
-        self.name         = "Dipta Dey"
-        self.username     = "Dipto-04"
-        self.university   = "Bangladesh University of Business and Technology (BUBT)"
-        self.degree       = "B.Sc. in Engineering — Computer Science & Engineering"
-        self.year         = "3rd Year"
-        self.location     = "Dhaka, Bangladesh 🇧🇩"
+Technology isn't my only interest. I also enjoy creative work and activities outside the screen.
 
-    @property
-    def ambitions(self):
-        return [
-            "🔐 Become a Cybersecurity Specialist",
-            "🤖 Work in AI / ML Engineering",
-            "🌍 Build real-world impactful projects",
-            "✈️  Travel the entire world someday",
-        ]
-
-    @property
-    def currently_learning(self):
-        return ["Ethical Hacking", "Machine Learning", "Data Structures & Algorithms"]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-
-me = DiptaDey()
-me.say_hi()
-```
+* 🎬 **Videography & Video Editing** — Capturing moments and telling stories through visuals.
+* ✈️ **Travelling** — Exploring new places, cultures, and experiences.
+* 🏏 **Cricket** — Enjoying the game both on and off the field.
+* 🏸 **Sports** — Playing badminton and table tennis in my free time.
+* 📚 **Continuous Learning** — Exploring new ideas and developing new skills.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Connect With Me
+
+I'm open to learning opportunities, meaningful collaborations, open-source contributions, and internships.
 
 <div align="center">
 
-### 💻 Languages
+<a href="https://github.com/Dipto-04">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dipta-dey-7ab029309/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:diptadey768@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/dipta.dey/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/_.yukaze._/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<br/><br/>
 
-### 🔭 Areas of Interest
+<a href="https://myyprootfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Personal%20Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio"/>
+</a>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-00C7B7?style=for-the-badge&logo=leetcode&logoColor=white)
+<br/><br/>
 
-### 🧰 Tools & Platforms
+*“Stay curious. Keep building. Never stop learning.”*
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipto-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=a960f5&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto-04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipto-04&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=a960f5&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipto-04&bg_color=0d1117&color=00D9FF&line=a960f5&point=FF6B6B&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-> 🔧 *More exciting projects are being built — stay tuned!*
-
-</div>
-
-| 🗂️ Project | 📝 Description | 🛠️ Tech Used |
-|:---:|:---|:---:|
-| 🔐 **[Coming Soon]** | Cybersecurity toolkit / ethical hacking project | Python, Linux |
-| 🤖 **[Coming Soon]** | AI / ML based real-world solution | Python, ML |
-| 📦 **[Browse All](https://github.com/Dipto-04?tab=repositories)** | Check out all repositories | Various |
-
-> ⭐ *Star any repo you find useful — it motivates me to build more!*
-
----
-
-## 🎯 2026 Goals & Roadmap
-
-<div align="center">
-
-```
-🔐 Master Ethical Hacking & Network Security
-🤖 Build AI/ML Projects from Scratch  
-💻 Solve 300+ DSA Problems  
-🌐 Launch Personal Portfolio Website  
-💼 Connect on LinkedIn with Professionals  
-🏆 Participate in CTF Competitions  
-```
-
-</div>
-
----
-
-## 🏏 Beyond the Code
-
-<div align="center">
-
-When I'm not writing code or exploring cybersecurity concepts, you'll find me:
-
-| 🏏 Cricket | 🏓 Table Tennis | 🏸 Badminton | 📚 Reading Books | ✈️ Travelling |
-|:---:|:---:|:---:|:---:|:---:|
-| Playing & watching | Smashing smashes | Weekend rallies | Tech & fiction | My biggest dream |
-
-> *"Not all those who wander are lost — especially if they have Wi-Fi."* 🌍
-
-</div>
-
----
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-> 🔗 *More links coming soon — Portfolio & more!*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dipto--04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipto-04)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipta_Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-dey-7ab029309/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-diptadey768%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptadey768@gmail.com)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Dipta_Dey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipta.dey/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-_.yukaze._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yukaze._/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myyprootfolio.netlify.app/)
-<br/>
-
-📧 **Open to:** Collaborations • Open Source • Learning together • Internships
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Dipto-04/Dipto-04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<br/>
-
-*⭐ If you like my profile, give it a star and follow for more awesome content!*
-
-**Made with ❤️ by Dipta Dey | Dhaka, Bangladesh 🇧🇩**
+**Thanks for visiting my profile!**
 
 </div>
